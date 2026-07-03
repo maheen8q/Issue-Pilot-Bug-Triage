@@ -213,7 +213,4 @@ GitHub: https://github.com/maheen8q
 
 LinkedIn: www.linkedin.com/in/maheen-ul-muslim-463b8135a
 
-<img width="1920" height="946" alt="image" src="https://github.com/user-attachments/assets/f6f9f127-093a-40ca-bbba-83cc182ecfe3" />
-<img width="1917" height="939" alt="image" src="https://github.com/user-attachments/assets/569b9632-263c-4ce1-a683-7687f40b4321" />
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/10e59ae9-81a1-42d6-89f1-dc3f99a82ca7" />
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/ed3ca4f0-9805-4679-9f9c-01db514eb046" />
+
